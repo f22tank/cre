@@ -1,205 +1,0 @@
-LEASE AGREEMENT
-
-	THIS LEASE AGREEMENT (this “Lease”) is entered into effective as of the ___ day of _____________, 2022 (the “Effective Date”), by and between SNP DEVELOPMENT, LLC, Virginia limited liability company (the “Landlord”), and VIRGINIA CREDIT UNION, a Virginia corporation (“Tenant”).
-
-ARTICLE 1
-
-LEASED PREMISES, TERMS, AND USE
-
-       1.01. Leased Premises.  Upon the terms, provisions and conditions hereof, and each in consideration of the duties, covenants and obligations of the other hereunder, Landlord hereby leases to Tenant and Tenant hereby leases from Landlord the premises containing approximately 3,516 rentable square feet identified as Suite 1 in the building located at 27 West Broad Street, Suite 1, Richmond, Virginia 23220 (the “Building”), together with all improvements thereon belonging or pertaining to the premises, and also including all rights, privileges, easements and appurtenances belonging or pertaining thereto (all of the foregoing being referred to as the “Leased Premises”).  Tenant accepts the Leased Premises in its present condition on an “as is” basis.
-
-       1.02. Term.  Subject to the terms, provisions and conditions hereof, the initial term of this Lease shall be for a period of ten (10) years and six (6) months (the “Term”) commencing on the date the Leased Premises are delivered to Tenant free of occupants and other tenancies, which date is anticipated to be August 1, 2022 (the “Commencement Date”).  Tenant shall have the right and option to extend the Term for up to two (2) additional periods of five (5) years each (each, a “Renewal Term”), exercisable by giving Landlord written notice at least ninety (90) days prior to the expiration of the then-current Term.  All references to the term “Term” shall include any Renewal Term.  If the Commencement Date has not occurred on or before November 1, 2022, Tenant shall have the right to terminate this Lease.  A “Lease Year” shall mean the twelve (12) month period during the Term commencing on the Commencement Date or the annual anniversary thereof, as may be applicable.
-
-       1.03. Use.  The Leased Premises shall be used and occupied by Tenant for general office use including the operation of a financial services office and associated ancillary businesses.  
-
-ARTICLE 2
-
-RENTAL
-
-       2.01. Base Rental.  Commencing on the date that is one hundred eighty (180) days following the Commencement Date (the “Rent Commencement Date”), Tenant shall pay base rental in the following amount:
-
-LEASE YEARANNUAL PSFANNUAL RENTMONTHLY RENTINITIAL TERM1$17.00$59,772.00$4,981.992$17.34$60,967.44$5,080.623$17.69$62,186.79$5,182.234$18.04$63,430.52$5,285.885$18.40$64,699.14$5,391.596$18.77$65,933.12$5,499.437$19.14$67,312.98$5,609.428$19.53$68,659.24$5,721.609$19.92$70,032.42$5,836.0410$20.32$71,433.07$5,952.56RENEWAL TERM #111$20.72$72,861.73$6,071.8112$21.14$74,318.97$6,193.2513$21.56$75,805.35$6,317.1114$21.99$77,321.46$6,443.4515$22.43$78,867.88$6,572.32RENEWAL TERM #216$22.88$80,445.24$6,703.7717$23.34$82,054.15$6,837.8518$23.80$83,695.23$6,974.6019$24.28$85,369.13$7,114.0920$24.77$87,076.52$7,256.38 
-
-  The base rental together with all adjustments thereof provided for herein shall be due and payable monthly in advance installments on the first day of each calendar month during the term, at the place and manner set forth in Section 4.01 hereof, without demand, deduction, abatement or setoff.  If the term ends on other than the last day of a calendar month, then the installment of base rental for such month shall be appropriately prorated.
-
-       2.02. Additional Rent.  Tenant shall pay and discharge when the same shall become due, as “additional rent,” all amounts, liabilities and obligations which Tenant has assumed or agreed to pay or discharge pursuant to this Lease including without limitation those enumerated in this Article 2, and elsewhere in this Lease.  The term “rent” as used in this Lease shall mean and include all Minimum Rent, additional rent and other amounts payable by Tenant hereunder.
-
-       2.03.  Taxes.  During the Term, Tenant shall pay to Landlord, as additional rent included as part of CAM Costs (as defined below), Tenant’s Proportionate Share (as defined below) of the total general and special real estate taxes and assessments which are levied and assessed on the Building in which the Leased Premises are located (collectively, “Taxes”).  Tenant’s Proportionate Share of Taxes shall be paid in monthly installments on or before the first day of each calendar month, in advance, in an amount estimated by Landlord.  Upon receipt of all tax, assessment and expense bills attributable to any Lease Year, but no later than sixty (60) days following the end of each Lease Year, Landlord shall furnish Tenant with a written statement of the actual amount of Tenant’s Proportionate Share of Taxes. If the total amount paid by Tenant under this Section for any Lease Year shall be less than the actual amount due from Tenant for such Lease Year as shown on such statement, Tenant shall pay to Landlord the difference between the amount paid by Tenant and the actual amount due, such deficiency to be paid within thirty (30) days after written demand therefor by Landlord; and if the total amount paid by Tenant hereunder for any Lease Year shall exceed such actual amount due from Tenant for such Lease Year, such excess shall be credited against the payments hereunder next due, or if no payments are next due, promptly refunded to Tenant.  “Taxes” shall not include any of Landlord’s income, inheritance or gift taxes; excise or transfer taxes; franchise or “gross margins” taxes; capital levies or capital stock or excess profits taxes; rollback taxes attributable to any tax years prior to the year in which this Lease is executed due to a sale or change in the use of the Building by Landlord in such prior years; any items for which Tenant or other tenants are liable pursuant to the terms of their lease (other than as an expense pass through item); or penalties or any interest incurred for any reason whatsoever, including, without limitation, as a result of Landlord’s negligence, inability or unwillingness to make payments or, and/or to file any tax information or returns with respect to any real property taxes or assessments when due.  Tenant shall be entitled to its proportionate share of any real estate tax abatement for any Taxes related to the Building to ensure that tenant is only responsible to pay those Taxes that are actually assessed against and paid by Landlord.  “Tenant’s Proportionate Share” with respect to the Building is the fraction calculated by dividing the number of rentable square feet on space in the Leased Premises by the number of rentable square feet in the Building, which is __________ percent (____%).
-
-       2.04. Insurance.  Landlord shall, during the Term, keep in full force and effect the insurance coverage required pursuant to Section 5.03 of this Lease.  The premiums charged Landlord for such insurance shall be included in the CAM Costs as provided in Section 2.05 below.
-
-       2.05. CAM Costs.  Landlord shall provide Tenant with a written estimate CAM Costs for each Lease Year.  Beginning on the Rent Commencement Date Tenant shall pay Tenant’s Proportionate Share of estimated CAM Costs in equal installments monthly.  Within sixty (60) days following the end of each Lease Year, or as soon thereafter as practicable, Landlord shall provide Tenant with a written statement setting forth the actual CAM Costs for the preceding Lease Year.  If the actual CAM Costs exceed the estimated CAM Costs paid by Tenant, Tenant shall pay Tenant’s Proportionate Share of the difference to Landlord within thirty (30) days of Tenant’s receipt of said written statement.  If the estimated CAM Costs exceed the actual CAM Costs, Tenant shall be credited the difference toward the next payment of estimated CAM Costs, or if no payments are due, promptly refunded to Tenant.  Controllable CAM Costs (as hereinafter defined) assessable against Tenant shall not be increased by more than five percent (5%) per year over the remainder of the Term of this Lease, on a non-cumulative basis.  “Controllable CAM Costs” include all CAM Costs except for Taxes, utilities, property insurance and snow and ice removal.  During the first calendar year of this Lease Term, Tenant’s Proportionate Share of CAM Costs is estimated to be Two and 50/100 Dollars ($2.50) per rentable square foot per Lease Year.  “CAM Costs” shall include all actual costs and expenses incurred by Landlord in connection with maintaining and repairing the common areas of the Building, all premiums for all liability, property, and casualty insurance policies maintained by Landlord in connection with the Building, utility charges and other costs of lighting the common areas, removal of snow and ice, and collection and removal of trash from the Building and from any dumpsters provided by Landlord for the use of Tenants.  Notwithstanding anything contained herein to the contrary, CAM Costs shall not include (i) depreciation and amortization of the Building or any equipment used or located therein; (ii) costs and expenses incurred in connection with leasing space in the Building, including real estate brokerage commissions; (iii) legal fees incurred in leasing or in disputes with tenants; (iv) capital expenditures; (v) cost of construction allowances provided to other tenants; (vi) interest or principal payments on any mortgage or deed of trust or any ground lease payments; (vii) any cost or expenditure for which Landlord is reimbursed (other than tax contributions or common area costs); (viii) costs of any services furnished to other tenants but which Landlord does not make available to Tenant; (ix) cost of repairs or maintenance caused or necessitated by the negligence of Landlord, its agents, contractors or employees; (x) costs recoverable by Landlord pursuant to its insurance policies; (xi) insurance costs on any other tenant’s space, whether vacant or occupied; or (xii) costs of any code compliance work, including compliance with the Americans With Disability Act.  For purposes hereof, “capital expenditures” shall mean those expenditures which, in accordance with generally accepted accounting principles, are not fully chargeable to current expenses in the year the expenditure is incurred.  
-
-ARTICLE 3
-
-LANDLORD'S SERVICES AND COVENANTS
-
-       3.01. Repair and Maintenance by Landlord.  Landlord shall maintain, repair and replace at its expense the structural elements of the Leased Premises and Building, including, but not limited to the exterior walls, façade, roof, foundation, subfloor, electrical and plumbing systems to the point where they service only the Leased Premises, the HVAC system and other the mechanical systems, and doors and windows, in good condition and repair.  
-
-       3.02. Services.  Landlord shall be responsible for no services to the Leased Premises except as provided in this Lease.
-
-ARTICLE 4
-
-TENANT'S COVENANTS
-
-       4.01. Payments by Tenant.  Tenant agrees to timely pay all rents and other sums provided to be paid to Landlord at the time herein provided.  Such payments shall be made to Landlord at the address set forth below or at such place as Landlord shall designate from time to time.
-
-       4.02. Repairs by Tenant.  Tenant shall, at its cost, repair or replace any damage to the Leased Premises, or any part thereof, caused by Tenant or Tenant's agents, employees, invitees or visitors.  Tenant shall promptly give Landlord written notice of any needed repairs or damage to the Leased Premises.
-
-       4.03. Care of the Leased Premises.  Tenant shall maintain the Leased Premises in a clean, attractive condition, and not commit or allow any waste or damage to be committed on or to any portion of the Leased Premises, and at the expiration or termination of this Lease shall deliver up the Leased Premises to Landlord in as good condition as at date of possession by Tenant, ordinary wear and tear excepted.  Tenant agrees to occupy at all times the Leased Premises.
-
-       4.04. Assignment or Sublease.  Tenant covenants and agrees that it will not assign this Lease, or sublet the Leased Premises, without the prior written consent of Landlord.
-
-       4.05. Alterations, Additions, Improvements.  Tenant will make no alteration, change, improvement, repair, replacement or addition to the Leased Premises without the prior written consent of Landlord (which consent shall not be unreasonably withheld), unless such alteration, improvement, change, repair, replacement or addition to the Leased Premises cost less than $25,000 in which case no such prior consent from Landlord will be required.  Tenant may remove its trade fixtures, office supplies and movable office furniture and equipment not attached to the Leased Premises provided: (1) such removal is made prior to the termination or expiration of the term; (2) Tenant is not then in default in the timely performance of any obligation or covenant under this Lease; and (3) Tenant promptly repairs all damage caused by such removal.  All other property at the Leased Premises (including but not limited to wall-to-wall carpeting, drywall partitions, paneling or other wall covering) and any other article attached or affixed to the floor, wall, or ceiling of the Leased Premises shall become the property of Landlord and shall be surrendered with the Leased Premises as part thereof at the termination of this Lease, without payment or compensation therefor.
-
-       4.06. Compliance with Laws and Usage; Liens.  Tenant, at its cost, shall comply with all federal, state, municipal and other laws and ordinances, and any reasonable building rules and regulations applicable to the Leased Premises and the business conducted therein by Tenant; will not engage in any activity which would cause fire and extended coverage insurance for the Leased Premises to be unavailable, canceled or more difficult to be obtained; will not commit any act which is a nuisance or annoyance to Landlord or which might, in the exclusive judgment of Landlord, appreciably damage Landlord's goodwill or reputation, or tend to injure or depreciate the Leased Premises; and will not commit or permit waste in the Leased Premises.  Tenant has no authority to encumber the Leased Premises with any lien, and Tenant shall not suffer or permit any such lien to exist.  Should any such lien hereafter be filed, Tenant shall promptly discharge the same at its sole cost.
-
-       4.07. Access by Landlord.  Tenant shall permit Landlord or its agents or representatives to enter into and upon any part of the Leased Premises at all reasonable hours to inspect same; to clean; to make repairs, alterations or additions thereto, as Landlord may deem necessary or desirable; to show the Leased Premises to prospective purchasers or tenants; or for any other purpose deemed reasonable by Landlord.
-
-       4.08. Utilities. Tenant shall obtain and pay for all water, electricity, sewerage, gas, telephone, internet, cable, and other utilities directly from the public utility company furnishing same.  Landlord shall separately meter (or sub-meter) the water, electricity, sewerage and gas services at Landlord’s sole cost and provide all meter numbers to Tenant as well as unrestricted access to all meter locations upon request by Tenant.  Tenant shall pay all utility deposits and hookup fees for the service to the Leased Premises, and all monthly service charges for water, electricity, sewage, gas, telephone and any other utility services furnished to the Leased Premises during the Term.  
-
-ARTICLE 5
-
-CONDEMNATION AND CASUALTY; INSURANCE
-
-       5.01. Condemnation and Loss or Damage.  If the Leased Premises or any part thereof shall be taken or condemned for any public purpose (or conveyed in lieu or in settlement thereof) to such an extent as to render the remainder of the Leased Premises, in the opinion of the Landlord, not reasonably suitable for occupancy, this Lease shall, at the option of either party, forthwith cease and terminate, and all proceeds from any taking or condemnation of the Leased Premises shall belong to and be paid to the Landlord.  If this Lease is not so terminated, Landlord shall repair any damage resulting from such taking, to the extent and in the manner provided in Section 5.02, and rental hereunder shall (1) be abated to the extent the Leased Premises are rendered untenantable during the period of repair, and (2) thereafter be adjusted on an equitable basis consider the areas of the Leased Premises taken and remaining. 
-
-       5.02. Fire or Other Casualty; Certain Repairs.  
-
-		(a) In the event of a fire or other casualty in the Leased Premises, Tenant shall immediately give notice thereof to Landlord.  If the Leased Premises shall be partially or totally destroyed by fire or other casualty so as to render the Leased Premises untenantable in whole or in part, the rental provided for herein shall abate as to the portion of the Leased Premises rendered untenantable until such time as the Leased Premises are made tenantable as determined by Landlord and Landlord agrees to commence and prosecute such repair work promptly and with reasonable diligence, if such destruction results in the Leased Premises being untenantable in substantial part for a period reasonably estimated by Landlord to be six (6) months or longer after such damage or destruction, or in the event of total or substantial damage or destruction to the Leased Premises where Landlord decides not to rebuild, then all rent owed up to the date of such damage or destruction shall be paid by Tenant and this Lease shall terminate upon notice thereof to Tenant.  Landlord shall give Tenant written notice of its decisions, estimates or elections under this Section 5.02 within sixty (60) days after any such damage or destruction.
-
-             (b) Should Landlord elect to effect any repairs under Section 5.01 or 5.02, Landlord shall only be obligated to restore or rebuild the Leased Premises to its present condition.  Landlord shall not be required to repair or replace, or to compensate Tenant for, any personal property or equipment of Tenant or any improvements made by Tenant to the Leased Premises.
-
-       5.03	Insurance, Subrogation, Liability, Indemnity, and Waiver.  (a) Landlord shall (i) maintain fire and extended coverage insurance on the Leased Premises, including standard leasehold improvements and (ii) policies of comprehensive general liability insurance insuring the Landlord against liability for injury to persons or property occurring in or about the Leased Premises in an amount not less than Three Million and 00/100 Dollars ($3,000,000.00).  
-
-             (b) Tenant, at its sole cost and expense, shall carry and maintain a policy or policies of comprehensive general liability insurance insuring the Tenant against liability for injury to persons or property occurring in or about the Leased Premises or arising out of the maintenance, use or occupancy thereof. Tenant shall maintain at its expense fire and extended coverage insurance on all of its personal property, including removable trade fixtures, located in the Leased Premises and on all additions and improvements made by Tenant.
-
-ARTICLE 6
-
-HOLDOVER
-
-       If Tenant should remain in possession of the Leased Premises after the termination or expiration of the term without the execution by Landlord and Tenant of a new lease, the Tenant shall be deemed to be occupying the Leased Premises as a tenant-at-sufferance, subject to all the covenants and obligations of this Lease and at a daily rental of one hundred fifty percent (150%) of the per day rental in effect immediately prior to such expiration or termination, computed on the basis of a thirty (30) day month, but such holding over shall not extend the term.
-       
-       ARTICLE 6
-       
-       SIGNAGE
-       
-       Subject to receipt of Landlord’s prior consent, which shall not be unreasonably withheld, conditioned or delayed, all signage shall be installed by Tenant at its expense.
-       
-       ARTICLE 7
-       
-       DEFAULT
-
-       7.01	Default by Tenant.  (a) Each of the following occurrences relative to Tenant shall constitute an “Event of Default”:
-
-             (1) Failure or refusal by Tenant to make the timely payment of any rent or other sums payable under this Lease when and as the same shall become due and payable, provided Landlord has given Tenant five (5) days' written notice of the same; or
-
-             (2) The filing or execution or occurrence of an insolvency proceeding by or against Tenant or any guarantor of Tenant; or an assignment for the benefit of creditors; or a petition or other proceeding by or against the Tenant for the appointment of a trustee, receiver or liquidator of Tenant or any of Tenant's property; or a proceeding by any governmental authority for the dissolution or liquidation of Tenant or any guarantor of Tenant; or
-
-             (3) Failure by Tenant in the performance or compliance with any of the agreements, terms, covenants or conditions provided in this Lease, other than those referred to in (1), (2) or (3) above, for a period of thirty (30) days after notice from Landlord to Tenant specifying the items in default (plus such additional reasonable period as may be required in the exercise by Tenant of due diligence); or
-
-             (4) Failure to peacefully surrender the Leased Premises on expiration or termination of this Lease.
-
-	(b)	This Lease and the term and estate hereby made are subject to the limitation that if and whenever any Event of Default shall occur, Landlord may, at its option and without further written notice to Tenant, in addition to all other remedies given hereunder or by law or equity, do any one or more of the following:
-             
-             (1) Terminate this Lease, in which event Tenant shall immediately surrender possession of the Leased Premises to Landlord;
-
-             (2) Enter upon and take possession of the Leased Premises and expel or remove Tenant or any other occupant therefrom with or without having terminated the Lease;
-
-(3) Alter locks and other security devices at the Leased Premises.
-
-       (c) Exercise by Landlord of any one or more remedies shall not constitute an acceptance of surrender of the Leased Premises by Tenant, whether by agreement or by operation of law, it being understood that such surrender can be effected only by the written agreement of Landlord and Tenant.
-
-       (d) If the Landlord terminates this Lease by reason of an Event of Default, Tenant shall be liable for and shall pay the Landlord, the sum of all rent and other indebtedness accrued to the date of such termination, plus, as damages, an amount equal to the then present value of the rent reserved hereunder for the remainder of the term to the stated expiration date.
-
-(e) Upon termination or repossession of the Leased Premises for an Event of Default, Landlord shall use commercially reasonable efforts to relet the Leased Premises.
-
-       7.02	Default by Landlord.  In the event of any default by Landlord hereunder, Tenant will give Landlord written notice specifying such default with particularity, and Landlord shall thereupon have thirty (30) days (plus such additional reasonable period as may be required in the exercise by Landlord of due diligence) in which to cure any such default.  
-       
-       ARTICLE 8
-       
-       TENANT IMPROVEMENT ALLOWANCE
-
-       Landlord shall reimburse Tenant in the amount of up to Eighty-Seven Thousand Nine Hundred and 00/100 Dollars ($87,900.00) (the “Tenant Improvement Allowance”) for completion of Tenant’s work in the Leased Premises.  The Tenant Improvement Allowance may be used for Tenant’s hard and soft costs with respect to the Tenant’s work.  The Tenant Improvement Allowance shall be paid to Tenant following submission of a written statement by Tenant requesting such payment, provided, however that at the time of such request and scheduled payment:
-       
-       (i) There shall not be an Event of Default by Tenant under any provision of this Lease;
-       
-       
-       (ii) the Leased Premises have been opened for business to the public in accordance with the requirements of this Lease for at least one (1) day; and
-       
-       (iii) Landlord receives original final notarized lien releases from Tenant’s general contractor, subcontractors and material suppliers for any labor or materials supplied.
-       
-       ARTICLE 9
-       
-       PARKING
-
-	During the Term of this Lease Landlord shall provide to Tenant, at Landlord’s sole cost and expense no fewer than five (5) spaces located in the surface parking lot located at the intersection of Adams Street and West Grace Street, Richmond, Virginia.  In addition, Landlord shall provide to Tenant the right to lease, at Tenant’s sole cost and expense at then current market rents, the right to lease up to five (5) spaces in the parking facility located at 2 West Marshall Street, Richmond, Virginia.
-
-ARTICLE 10
-
-BROKERS
-
-       Each of Landlord and Tenant warrants and represents to the other that the only brokers it has dealt with in connection with this Lease are Thalhimer | Cushman & Wakefield, representing Tenant and Divaris Real Estate, Inc., representing Landlord (collectively, the “Broker”).  Landlord shall pay all commissions, fees and expenses of Broker pursuant to a separate written agreement and shall defend, indemnify and hold harmless Tenant from and against all commissions, fees and expenses of Broker and all claims therefor, including reasonable attorneys’ fees.  Tenant shall defend, indemnify and hold harmless Landlord from and against all loss, costs or damage Landlord may incur by reason of Tenant’s breach of the warranty and representations set forth in this Article 10.
-
-ARTICLE II
-
-MISCELLANEOUS
-
-       11.01	Independent Obligations.  The obligation of Tenant to pay all rent and other sums hereunder provided to be paid by Tenant and the obligation of Tenant to perform Tenant's other covenants and duties hereunder constitute independent unconditional obligations to be performed at all times provided for hereunder.
-
-       11.02	Venue; Governing Law.  This Lease shall be governed by the laws of the Commonwealth of Virginia.
-
-       11.03	Notice.  Any notice which may be or shall be given under the terms of this Lease shall be in writing and shall be either delivered by hand or sent by United States Registered or Certified Mail, postage prepaid, return receipt requested, if for Landlord to the address provided herein below Landlord's execution hereof; or if for Tenant, to the Leased Premises.  Such addresses may be changed from time to time by either party by giving notice as provided above.  Notice shall be deemed given when delivered (if delivered by hand) or three days after postmarked (if sent by mail).
-
-       11.04	Entire Agreement and Binding Effect.  This Lease and any written addenda and all exhibits hereto (which are expressly incorporated herein by this reference) shall constitute the entire agreement between Landlord and Tenant; this Lease supersedes and replaces any existing lease between the parties and no prior written or prior or contemporaneous oral promises or representations shall be binding.  This Lease shall not be amended, changed or extended except by written instrument signed by both parties hereto.  The provisions of this Lease shall be binding upon and inure to the benefit of the heirs, executors, administrators, successors and assigns of the parties, but this provision shall in no way alter the restrictions on assignment and subletting applicable to Tenant hereunder.
-
-       11.05	Number and Gender; Captions; References.  Pronouns, where used herein, of whatever gender, shall include natural persons, corporations, and associations of every kind and character, and the singular shall include the plural and vice versa where and as often as may be appropriate.  Article and section headings under this Lease are for convenience of reference and shall not affect the construction or interpretation of this Lease.  Whenever the terms “hereof”, “hereby”, “herein”, or words of similar import are used in this Lease, they shall be construed as referring to this Lease in its entirety rather than to a particular section or provision, unless the context specifically indicates to the contrary.  Any reference to a particular “Article” or “Section” shall be construed as referring to the indicated article or section of this Lease.
-
-
-[Signatures Appear on the Following Page]
-
-       EXECUTED in multiple counterparts, each of which shall have the force and effect of an original on the date first above written.
-       
-LANDLORD:
-   
-					SNP DEVELOPMENT, LLC,
-					a Virginia limited liability company
-
-
-					By: _________________________________
-					Name: ______________________________
-					Its: _________________________________
-
-					Address: 
-					___________________________________
-					___________________________________
-					___________________________________
-
-TENANT:
-   
-					VIRGINIA CREDIT UNION, INC.,
-					a Virginia corporation
-
-
-					By: _________________________________
-					Name: ______________________________
-					Its: _________________________________
-
-					Address: 
-					___________________________________
-					___________________________________
-					___________________________________
-
-
-
-
-
-
-
-	9
-
-
-
-
-
-
